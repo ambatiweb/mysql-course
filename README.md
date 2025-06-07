@@ -1,0 +1,2 @@
+# mysql-course
+mysql exercise
